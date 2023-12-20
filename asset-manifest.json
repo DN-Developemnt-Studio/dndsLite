@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/dndsLite/static/css/main.37dcf01c.css",
-    "main.js": "/dndsLite/static/js/main.19855988.js",
+    "main.js": "/dndsLite/static/js/main.ed787153.js",
     "static/js/787.7562374b.chunk.js": "/dndsLite/static/js/787.7562374b.chunk.js",
     "static/media/server_img.png": "/dndsLite/static/media/server_img.7e44a738fdc8ddac3b29.png",
     "static/media/serverBackgr.jpeg": "/dndsLite/static/media/serverBackgr.81dfb23bc9d45ca6a955.jpeg",
     "static/media/profileItemBackground.png": "/dndsLite/static/media/profileItemBackground.568c68766618d353bfa9.png",
     "index.html": "/dndsLite/index.html",
     "main.37dcf01c.css.map": "/dndsLite/static/css/main.37dcf01c.css.map",
-    "main.19855988.js.map": "/dndsLite/static/js/main.19855988.js.map",
+    "main.ed787153.js.map": "/dndsLite/static/js/main.ed787153.js.map",
     "787.7562374b.chunk.js.map": "/dndsLite/static/js/787.7562374b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37dcf01c.css",
-    "static/js/main.19855988.js"
+    "static/js/main.ed787153.js"
   ]
 }
